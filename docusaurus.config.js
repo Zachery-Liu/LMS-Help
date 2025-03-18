@@ -85,7 +85,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Zachery-Liu/LMSHelpDoc',
+            href: 'https://github.com/Zachery-Liu/LMS-Help',
             label: 'GitHub',
             position: 'right',
           },

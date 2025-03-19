@@ -94,11 +94,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'LMS',
             items: [
               {
-                label: '帮助文档',
-                to: '/docs',
+                label: 'LMS帮助文档',
+                to: '/LMS/docs',
               },
             ],
           }
